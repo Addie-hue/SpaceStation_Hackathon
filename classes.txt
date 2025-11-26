@@ -1,0 +1,7 @@
+NitrogenTank
+FirstAidBox
+OxygenTank
+FireExtinguisher
+SafetySwitchPanel
+EmergencyPhone
+FireAlarm

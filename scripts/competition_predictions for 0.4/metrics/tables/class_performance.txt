@@ -1,0 +1,12 @@
+CLASS-WISE PERFORMANCE REPORT
+=============================
+
+Class Name           Detections   Percentage
+---------------------------------------------
+OxygenTank           2082         30.9%
+NitrogenTank         2024         30.0%
+FirstAidBox          958          14.2%
+FireAlarm            274          4.1%
+SafetySwitchPanel    378          5.6%
+EmergencyPhone       282          4.2%
+FireExtinguisher     738          11.0%

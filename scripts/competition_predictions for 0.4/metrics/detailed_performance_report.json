@@ -1,0 +1,41 @@
+{
+  "performance_metrics": {
+    "total_images": 2816,
+    "total_predictions": 6736,
+    "total_ground_truth": 11724,
+    "true_positives": 6110,
+    "false_positives": 1092,
+    "false_negatives": 5454,
+    "misclassifications": 0,
+    "missed_detections": 5454,
+    "low_confidence": 0
+  },
+  "failure_breakdown": {
+    "missed_detections": 5454,
+    "false_positives": 466,
+    "misclassified": 160
+  },
+  "class_distribution": {
+    "NitrogenTank": 2024,
+    "FirstAidBox": 958,
+    "OxygenTank": 2082,
+    "FireExtinguisher": 738,
+    "SafetySwitchPanel": 378,
+    "EmergencyPhone": 282,
+    "FireAlarm": 274
+  },
+  "confidence_statistics": {
+    "mean": 0.7737651457147332,
+    "std": 0.14513960394553133,
+    "min": 0.4002220332622528,
+    "max": 0.9919891953468323
+  },
+  "detection_metrics": {
+    "precision": 0.8483754512635379,
+    "recall": 0.5211531900375298,
+    "f1_score": 0.6456726196766353,
+    "false_positive_rate": 0.15162454873646208,
+    "missed_detection_rate": 0.46519959058341864
+  },
+  "estimated_mAP@0.5": 0.5211531900375298
+}

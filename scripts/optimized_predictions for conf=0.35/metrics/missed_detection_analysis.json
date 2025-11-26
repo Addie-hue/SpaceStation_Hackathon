@@ -1,0 +1,17 @@
+{
+  "total_missed": 2636,
+  "class_wise_missed": {
+    "FireExtinguisher": 330,
+    "SafetySwitchPanel": 279,
+    "NitrogenTank": 648,
+    "FirstAidBox": 347,
+    "OxygenTank": 557,
+    "EmergencyPhone": 258,
+    "FireAlarm": 217
+  },
+  "size_analysis": {
+    "small_objects_missed": 2272,
+    "normal_objects_missed": 364,
+    "small_object_percentage": 86.19119878603946
+  }
+}

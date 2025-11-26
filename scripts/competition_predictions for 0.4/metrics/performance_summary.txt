@@ -1,0 +1,26 @@
+=== SPACE STATION SAFETY DETECTION - COMPREHENSIVE PERFORMANCE ANALYSIS ===
+
+Model: best.pt
+Test Images Processed: 2816
+Total Ground Truth Objects: 11724
+Total Predictions Made: 6736
+
+DETECTION METRICS:
+  Precision: 0.848 (84.8%)
+  Recall: 0.521 (52.1%)
+  F1-Score: 0.646
+  True Positives: 6110
+  False Positives: 1092
+  False Negatives: 5454
+
+Estimated mAP@0.5: 0.521 (52.1%)
+
+FAILURE ANALYSIS:
+  missed_detections: 5454 cases
+  false_positives: 466 cases
+  misclassified: 160 cases
+
+CONFIDENCE STATISTICS:
+  Mean: 0.774
+  Std: 0.145
+  Range: 0.400 - 0.992

@@ -1,0 +1,19 @@
+MISCLASSIFICATION ANALYSIS
+==========================
+
+Total misclassifications: 108
+
+FireExtinguisher -> NitrogenTank: 20 occurrences
+NitrogenTank -> FireExtinguisher: 18 occurrences
+OxygenTank -> NitrogenTank: 16 occurrences
+NitrogenTank -> FirstAidBox: 12 occurrences
+NitrogenTank -> OxygenTank: 10 occurrences
+FirstAidBox -> FireExtinguisher: 8 occurrences
+FirstAidBox -> NitrogenTank: 6 occurrences
+FireExtinguisher -> FirstAidBox: 4 occurrences
+EmergencyPhone -> FireAlarm: 4 occurrences
+FirstAidBox -> SafetySwitchPanel: 2 occurrences
+NitrogenTank -> SafetySwitchPanel: 2 occurrences
+FireExtinguisher -> SafetySwitchPanel: 2 occurrences
+FireAlarm -> SafetySwitchPanel: 2 occurrences
+FireExtinguisher -> OxygenTank: 2 occurrences

@@ -1,0 +1,24 @@
+=== OPTIMIZED SPACE STATION SAFETY DETECTION ANALYSIS ===
+
+Optimal Confidence Threshold: 0.35
+Test Images Processed: 1408
+Total Ground Truth Objects: 5862
+Total Predictions Made: 3542
+
+DETECTION METRICS:
+  Precision: 0.813 (81.3%)
+  Recall: 0.535 (53.5%)
+  F1-Score: 0.645
+  True Positives: 3136
+  False Positives: 722
+  False Negatives: 2636
+
+FAILURE ANALYSIS:
+  missed_detections: 2636 cases
+  false_positives: 316 cases
+  misclassified: 90 cases
+
+CONFIDENCE STATISTICS:
+  Mean: 0.754
+  Std: 0.166
+  Range: 0.350 - 0.992

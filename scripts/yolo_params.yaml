@@ -1,0 +1,10 @@
+path: ../dataset
+train: train/images
+val: val/images  
+test: test/images
+
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']
+
+# Auto-download (optional)
+# download: https://ultralytics.com/assets/coco128.zip
